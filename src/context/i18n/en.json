@@ -1,0 +1,13 @@
+{
+  "title": "Title",
+  "body": "Note",
+  "save": "Save",
+  "delete": "Delete",
+  "archive": "Archive",
+  "unarchive": "Un-archive",
+  "newNote": "New note",
+  "notes": "Notes",
+  "noNotesFound": "No notes found",
+  "saved": "Saved!",
+  "deleted": "Deleted!"
+}
